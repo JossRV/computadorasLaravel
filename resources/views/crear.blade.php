@@ -32,7 +32,7 @@
                         <label for="floatingInput">Procesador</label>
                     </div>
                     <div class="form-floating mb-3">
-                        <input type="text" name="disco duro" class="form-control" id="floatingInput" placeholder="1 TB" required>
+                        <input type="text" name="disco_duro" class="form-control" id="floatingInput" placeholder="1 TB" required>
                         <label for="floatingInput">Disco duro</label>
                     </div>
                     <div class="form-floating mb-3">
